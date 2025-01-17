@@ -1,0 +1,16 @@
+# Ignore the node_modules directory
+node_modules/
+.expo/
+components/quizData.js
+components/quizData2.js
+components/quizDataHindi.js
+components/quizData2Hindi.js
+components/quizDataTelugu.js
+components/quizData2Telugu.js
+components/quizDataTelugu.js
+components/quizData2Telugu.js
+components/ScreeningJSTData.js
+components/ScreeningJSTHindiData.js
+components/ScreeningJSTTeluguData.js
+# Ignore the package-lock.json file
+package-lock.json
